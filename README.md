@@ -2,7 +2,7 @@
 - 📍 I'm a Year 12 student from Auckland, New Zealand
 - 👀 I’m interested in learning software engineering and web development for coding expereince during high school
 - 🎓 In the future, I want to study Computer Science at a US college
-- 📖 I’m currently learning with The Odin Project (11/30/2022 started 'SVG' in Intermediate HTML & CSS)
+- 📖 I’m currently learning with The Odin Project (12/02/2022 started 'Tables' in Intermediate HTML & CSS)
 
 <!---
 jackpotier/jackpotier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
